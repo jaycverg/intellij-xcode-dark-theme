@@ -122,7 +122,8 @@
     },
 
     "EditorTabs": {
-      "inactiveColoredFileBackground": "#2d281d"
+      "inactiveColoredFileBackground": "#2d281d",
+      "underlinedTabBackground": "#2A2B2B"
     },
 
     "FileColor": {
